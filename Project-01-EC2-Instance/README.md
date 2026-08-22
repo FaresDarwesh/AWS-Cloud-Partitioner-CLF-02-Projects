@@ -9,7 +9,7 @@ Deploy a virtual server on AWS and host a simple web page.
 - SSH connection
 - Apache installation
 
-"Screenshot"
+"Screenshots of this project"
 
 "Next"
 Project 2: S3 Bucket
