@@ -16,9 +16,9 @@
 
 ## About
 - AWS Certified Cloud Practitioner
-- LinkedIn: [Fares Darwesh](linkedin.com/in/fares-darwesh-8b8936284)
 
 ## Connect
-[LinkedIn](linkedin.com/in/fares-darwesh-8b8936284)
-[WhatsApp](+201014909815)
 
+- 📱 **Phone:** [+20 1014909815](tel:+201014909815)
+- 💼 **LinkedIn:** [Fares Darwesh](https://linkedin.com/in/fares-darwesh-8b8936284/)
+- 💬 **WhatsApp:** [Message Me](https://wa.me/201014909815)
