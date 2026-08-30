@@ -6,10 +6,10 @@
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | [EC2 Instance](project-01-ec2-instance/) | ✅ Done |
-| 2 | [S3 Bucket](project-02-s3-bucket/) | ✅ Done |
-| 3 | [S3 Website](project-03-s3-website/) | ✅ Done |
-| 4 | EBS Volume | ⏳ Pending |
+| 1 | [EC2 Instance](Project-01-EC2-Instance/) | ✅ Done |
+| 2 | [S3 Bucket](Project-02-S3-Bucket/) | ✅ Done |
+| 3 | [S3 Website](Project-03-S3-Website/) | ✅ Done |
+| 4 | [EBS Volume](project-04-EBS-Volume/) | ✅ Done |
 | 5 | IAM User | ⏳ Pending |
 | 6 | RDS Database | ⏳ Pending |
 | 7 | VPC Networking | ⏳ Pending |
