@@ -11,7 +11,7 @@
 | 3 | [S3 Website](Project-03-S3-Website/) | ✅ Done |
 | 4 | [EBS Volume](project-04-EBS-Volume/) | ✅ Done |
 | 5 | [IAM User](Project-05-IAM-User/) | ✅ Done |
-| 6 | RDS Database | ⏳ Pending |
+| 6 | [RDS Database](Project-06-RDS-Database/) | ✅ Done |
 | 7 | VPC Networking | ⏳ Pending |
 
 ## About
