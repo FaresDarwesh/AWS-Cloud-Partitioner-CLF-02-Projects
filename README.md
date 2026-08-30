@@ -10,7 +10,7 @@
 | 2 | [S3 Bucket](Project-02-S3-Bucket/) | ✅ Done |
 | 3 | [S3 Website](Project-03-S3-Website/) | ✅ Done |
 | 4 | [EBS Volume](project-04-EBS-Volume/) | ✅ Done |
-| 5 | IAM User | ⏳ Pending |
+| 5 | [IAM User](Project-05-IAM-User/) | ✅ Done |
 | 6 | RDS Database | ⏳ Pending |
 | 7 | VPC Networking | ⏳ Pending |
 
