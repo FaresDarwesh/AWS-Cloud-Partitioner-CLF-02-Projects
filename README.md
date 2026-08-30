@@ -8,7 +8,7 @@
 |---|---------|--------|
 | 1 | [EC2 Instance](project-01-ec2-instance/) | ✅ Done |
 | 2 | [S3 Bucket](project-02-s3-bucket/) | ✅ Done |
-| 3 | S3 Website | ⏳ Pending |
+| 3 | [S3 Website](project-03-s3-website/) | ✅ Done |
 | 4 | EBS Volume | ⏳ Pending |
 | 5 | IAM User | ⏳ Pending |
 | 6 | RDS Database | ⏳ Pending |
